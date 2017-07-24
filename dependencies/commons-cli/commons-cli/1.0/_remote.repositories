@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 24 15:37:08 CDT 2017
+commons-cli-1.0.pom>project.local.plugin=
+commons-cli-1.0.jar>project.local.plugin=
+commons-cli-1.0.jar>project.local=
