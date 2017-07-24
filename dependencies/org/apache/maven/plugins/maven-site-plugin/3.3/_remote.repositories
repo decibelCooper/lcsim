@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 24 15:36:58 CDT 2017
+maven-site-plugin-3.3.jar>project.local.plugin=
+maven-site-plugin-3.3.pom>project.local.plugin=
